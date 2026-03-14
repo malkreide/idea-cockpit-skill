@@ -152,8 +152,6 @@ MIT-Lizenz — siehe [LICENSE](LICENSE)
 ## Autor
 
 **Hayal Oezkan** · [@malkreide](https://github.com/malkreide)  
-Leiter Marketing & Kommunikation, Schulamt der Stadt Zürich  
-Mitglied, KI-Fachgruppe Stadt Zürich
 
 ---
 
